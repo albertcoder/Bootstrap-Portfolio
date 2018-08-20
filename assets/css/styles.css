@@ -1,0 +1,71 @@
+#img1 {
+    height: 120px;
+    width: 100px;
+}
+
+div.thumbnail {
+    height: 130px;
+    width: 108.33px;
+}
+
+img {
+    height: 200px;
+    width: 240px;
+    
+}
+
+#main {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+#feet {
+    text-align: center;
+    background-color: #666666;
+    height: 40px;
+    border-top: 7px solid teal;
+}
+
+#foot {
+    text-align: center;
+    color: white;
+}
+
+.h1, h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbar-inverse {
+    background-color: #ffffff;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid lightgray;
+}
+
+body {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("../images/spring.png");
+}
+
+.navbar-inverse .navbar-brand {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.btn-primary {
+    color: white;
+    background-color: teal;
+    border-color: lightgray;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #666666;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #666666;
+    background-color: #4aaaa5;
+}
